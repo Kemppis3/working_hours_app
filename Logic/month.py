@@ -37,4 +37,4 @@ class Month():
     #Function for filling month object with random stuff
     def fill_month(self, max):
         for x in range(max):
-            self.day_list.append(Day(x,x+20,"BRUH"))
+            self.day_list.append(Day(x,x+20,"test123"))
